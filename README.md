@@ -10,7 +10,7 @@ Para clonar este repositorio dirígete a la carpeta en la que quieres guardarlo 
 git clone https://github.com/CristianDavid313/SQL.git
 ```
 
-## Índice 📢
+## Aclaraciones
 
 * A lo largo de este repositorio, se presentarán varios ejercicios utilizando las siguientes tres tablas simples:
 
@@ -44,9 +44,9 @@ git clone https://github.com/CristianDavid313/SQL.git
 |4|Pending|5|
 |5|Delivered|1|
 
-## Ordenamientos y Rangos
+## Índice 📢
 
-
+* En la carpeta **Orden_y_rangos** encontrará varios ejercicios explicados de como utilizar rangos y como organizarlos al momento de consultarlos.
 
 ## Referencias 🔧
 
