@@ -16,10 +16,10 @@ git clone https://github.com/CristianDavid313/SQL.git
 
 **Customers**:
 
-| customer_id | first_name | last_name | age | country |
-|-------------|------------|-----------|-----|---------|
-|1            |John        |Doe        |31   |USA      |
-|2	          |Robert	   |Luna       |22   |USA      |
+|customer_id|first_name|last_name|age|country|
+|-|-|-|-|-|
+|1|John|Doe|31|USA|
+|2|Robert|Luna|22|USA|
 
 ## Ordenamientos y Rangos
 
