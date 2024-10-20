@@ -27,7 +27,7 @@ git clone https://github.com/CristianDavid313/SQL.git
 **Orders**:
 
 |order_id|item|amount|customer_id|
-|-|-|-|-|-|
+|-|-|-|-|
 |1|Keyboard|400|4|
 |2|Mouse|300|4|
 |3|Monitor|12000|3|
@@ -37,7 +37,7 @@ git clone https://github.com/CristianDavid313/SQL.git
 **Shippings**:
 
 |shipping_id|status|customer|
-|-|-|-|-|-|
+|-|-|-|
 |1|Pending|2|
 |2|Pending|4|
 |3|Delivered|3|
